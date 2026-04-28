@@ -42,11 +42,21 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-### 🐙Others
+[![](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-data&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kevinrodriguez-data)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kevinrodriguez-data&theme=material-palenight)](https://github.com/kevinrodriguez-data)
+</div>
 
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+----
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
-    
+------
+Credit: [Elanza-48](https://github.com/kevinrodriguez-data)
+
+Last Edited on: 28/04/2026
