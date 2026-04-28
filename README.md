@@ -39,8 +39,9 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Educacion
+### Educacion
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
