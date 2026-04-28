@@ -1,15 +1,21 @@
 
 <h1 align="center"><b>Hi , I'm Kevin Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-
-
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  alt="illustration of a computer" 
+  min-width="400px" 
+  max-width="400px" 
+  width="400px" 
+  align="right" 
+/>
 
 <p align="justify">Analista de Datos en formación autodidacta, con conocimientos en Python, SQL, Excel y Power BI. Actualmente
 desarrollo proyectos personales y amplío mis habilidades técnicas para transformar datos en
 información útil que impulse la toma de decisiones. Experiencia previa en logística y atención al
 cliente, con capacidad para trabajar en equipo y en entornos dinámicos. Apasionado por la
 tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilidad.
+
 </p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
@@ -57,6 +63,6 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/kevinrodriguez-data)
+Credit: [kevinrodriguez-data](https://github.com/kevinrodriguez-data)
 
 Last Edited on: 28/04/2026
