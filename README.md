@@ -21,7 +21,7 @@ cliente, con capacidad para trabajar en equipo y en entornos dinámicos. Apasion
 tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilidad.
 </p>
 
-<h1 align="left">🧠 Skills Showcase</h1>
+<h1 align="left">🧠 Habilidades</h1>
 
 ### ☕️Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
