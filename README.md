@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Kevin Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center"><b>Hola, Soy Kevin Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center">
 📊 Analista de Datos en formación | Python • SQL • Power BI
 </p>
@@ -24,18 +24,7 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 <h1 align="left">🧠 Skills Showcase</h1>
 
 ### ☕️Languages
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚛️Frameworks
-
-![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 📝Software
 
@@ -43,13 +32,15 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🐬Database
-
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📘Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Educacion
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -66,6 +57,15 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 </p>
 
 ------
+<p align="center">
+   <i>La fortaleza se perfecciona en la devilidad.</i>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/kevinrodriguez-data/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:kevincamilorr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
+
+
 Credit: [kevinrodriguez-data](https://github.com/kevinrodriguez-data)
 
 Last Edited on: 28/04/2026
