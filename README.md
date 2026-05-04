@@ -13,6 +13,19 @@ Análisis de datos de ventas con Python: limpieza, visualización y exportación
   align="right" 
 />
 
+# 👋 Hola, soy Kevin
+
+🎯 Aspirante a Analista de Datos  
+📊 Python | SQL | Power BI  
+📈 Me enfoco en análisis de datos y visualización  
+
+## 🚀 Proyectos destacados
+- Análisis de ventas con Python
+- (los que sigan)
+
+## 📫 Contacto
+- LinkedIn: ...
+- 
 <h1 align="left">🧠 Sobre mí </h1>
 <p align="justify">Analista de Datos en formación autodidacta, con conocimientos en Python, SQL, Excel y Power BI. Actualmente
 desarrollo proyectos personales y amplío mis habilidades técnicas para transformar datos en
@@ -20,6 +33,7 @@ información útil que impulse la toma de decisiones. Experiencia previa en log�
 cliente, con capacidad para trabajar en equipo y en entornos dinámicos. Apasionado por la
 tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilidad.
 </p>
+
 
 <h1 align="left">🧠 Habilidades</h1>
 
