@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola, Soy Kevin Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center">
-Análisis de datos de ventas con Python: limpieza, visualización y exportación de resultados
+Analista de datos en proceso de aprendizaje auto didacta Python| Pandas| matplotlib| Pathlib| Seaborn| SQL server
 </p>
 
 <img 
@@ -13,18 +13,7 @@ Análisis de datos de ventas con Python: limpieza, visualización y exportación
   align="right" 
 />
 
-# 👋 Hola, soy Kevin
 
-🎯 Aspirante a Analista de Datos  
-📊 Python | SQL | Power BI  
-📈 Me enfoco en análisis de datos y visualización  
-
-## 🚀 Proyectos destacados
-- Análisis de ventas con Python
-- (los que sigan)
-
-## 📫 Contacto
-- LinkedIn: ...
 - 
 <h1 align="left">🧠 Sobre mí </h1>
 <p align="justify">Analista de Datos en formación autodidacta, con conocimientos en Python, SQL, Excel y Power BI. Actualmente
@@ -58,12 +47,13 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=kevinrodriguez-data&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kevinrodriguez-data)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=kevinrodriguez-data&theme=material-palenight)](https://github.com/kevinrodriguez-data)
-</div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github.com/kevinrodriguez-data/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github.com/kevinrodriguez-data/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ----
 
