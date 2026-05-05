@@ -49,10 +49,8 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 
 
 <p align="center">
-  <a href="https://github.com/kevinrodriguez-data">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinrodriguez-data&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrodriguez-data&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinrodriguez-data&theme=algolia"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinrodriguez-data&theme=react-dark" />
 </p>
 
 
