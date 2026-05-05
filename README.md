@@ -49,11 +49,12 @@ tecnología y el análisis, con mentalidad crítica, proactividad y adaptabilida
 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github.com/kevinrodriguez-data/api?username=https://github.com/kevinrodriguez-data=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github.com/kevinrodriguez-data/api/top-langs/?username=https://github.com/kevinrodriguez-data&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/kevinrodriguez-data">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinrodriguez-data&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrodriguez-data&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 
 ----
 
