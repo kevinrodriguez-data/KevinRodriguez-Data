@@ -1,8 +1,6 @@
 
 <h1 align="center"><b>Hola, Soy Kevin Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<p align="center">
-Analista de datos en proceso de aprendizaje auto didacta Python| Pandas| matplotlib| Pathlib| Seaborn| SQL server
-</p>
+
 
 <img 
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
@@ -14,7 +12,7 @@ Analista de datos en proceso de aprendizaje auto didacta Python| Pandas| matplot
 />
 
 
-- 
+
 <h1 align="left">🧠 Sobre mí </h1>
 <p align="justify">Analista de Datos en formación autodidacta, con conocimientos en Python, SQL, Excel y Power BI. Actualmente
 desarrollo proyectos personales y amplío mis habilidades técnicas para transformar datos en
